@@ -1,6 +1,6 @@
 ---
 name: ads-weekly-report
-description: Weekly ad performance report across Google Ads, Meta (Facebook and Instagram) and TikTok through Pinlyx, with week-over-week comparison, budget pacing, account alerts and CRM lead attribution. Use for "how did our ads do this week", ad health checks or budget questions. Reporting is read-only; any budget, bid or status change needs explicit approval.
+description: "Weekly ad performance report across Google Ads, Meta (Facebook and Instagram) and TikTok through Pinlyx, with week-over-week comparison, budget pacing, account alerts and CRM lead attribution. Use for \"how did our ads do this week\", ad health checks or budget questions. Reporting is read-only; any budget, bid or status change needs explicit approval."
 ---
 
 # Weekly ads report

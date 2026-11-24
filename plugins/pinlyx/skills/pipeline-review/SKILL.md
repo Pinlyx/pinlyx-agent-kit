@@ -1,6 +1,6 @@
 ---
 name: pipeline-review
-description: Review the Pinlyx sales pipeline and deals, find stalled or overdue opportunities, and propose next steps. Use for weekly pipeline reviews, "what is in my pipeline", "which deals are stuck" or "what is overdue". Proposes changes first and applies them only after approval.
+description: "Review the Pinlyx sales pipeline and deals, find stalled or overdue opportunities, and propose next steps. Use for weekly pipeline reviews, \"what is in my pipeline\", \"which deals are stuck\" or \"what is overdue\". Proposes changes first and applies them only after approval."
 ---
 
 # Pipeline and deal review

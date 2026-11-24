@@ -1,6 +1,6 @@
 ---
 name: inbox-triage
-description: Prioritize the Pinlyx inbox (social DMs, Telegram/X conversations and email threads) and draft replies. Use when the person asks who needs a reply, wants a morning inbox sweep, or asks for a draft answer to a conversation. Drafts first, sends only after explicit approval.
+description: "Prioritize the Pinlyx inbox (social DMs, Telegram/X conversations and email threads) and draft replies. Use when the person asks who needs a reply, wants a morning inbox sweep, or asks for a draft answer to a conversation. Drafts first, sends only after explicit approval."
 ---
 
 # Inbox triage and reply drafts

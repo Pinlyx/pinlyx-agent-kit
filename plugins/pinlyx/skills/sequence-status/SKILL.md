@@ -1,6 +1,6 @@
 ---
 name: sequence-status
-description: Report on Pinlyx outbound message sequences and Telegram send jobs: what is running, progress, failures and why messages did not go out. Use for "what campaigns are running", "did my messages go out" or "why did this sequence fail". Pausing or resuming a sequence needs the person's approval.
+description: "Report on Pinlyx outbound message sequences and Telegram send jobs: what is running, progress, failures and why messages did not go out. Use for \"what campaigns are running\", \"did my messages go out\" or \"why did this sequence fail\". Pausing or resuming a sequence needs the person's approval."
 ---
 
 # Sequence and send-job status

@@ -1,6 +1,6 @@
 ---
 name: social-post-planner
-description: Plan, schedule and review social posts through Pinlyx (Instagram, Facebook, X, LinkedIn, TikTok, YouTube, Threads and more). Use when the person wants a weekly content calendar, wants to schedule or reschedule posts, or asks what is going out this week. Schedules only after approval and never publishes immediately without an explicit request.
+description: "Plan, schedule and review social posts through Pinlyx (Instagram, Facebook, X, LinkedIn, TikTok, YouTube, Threads and more). Use when the person wants a weekly content calendar, wants to schedule or reschedule posts, or asks what is going out this week. Schedules only after approval and never publishes immediately without an explicit request."
 ---
 
 # Social post planning

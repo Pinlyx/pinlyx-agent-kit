@@ -1,6 +1,6 @@
 ---
 name: contact-cleanup
-description: Clean up and organize Pinlyx contacts and tags: find untagged or mis-staged contacts, standardize the tag dictionary, fix lead scores and owners. Use when the person wants to tidy the CRM, tag a segment, or audit contact data. Shows a change list and applies it only after approval.
+description: "Clean up and organize Pinlyx contacts and tags: find untagged or mis-staged contacts, standardize the tag dictionary, fix lead scores and owners. Use when the person wants to tidy the CRM, tag a segment, or audit contact data. Shows a change list and applies it only after approval."
 ---
 
 # Contact and tag cleanup
