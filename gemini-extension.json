@@ -1,0 +1,11 @@
+{
+  "name": "pinlyx",
+  "version": "1.0.0",
+  "description": "Pinlyx CRM, inbox, social publishing and ad reporting for Gemini CLI through the Pinlyx remote MCP server.",
+  "mcpServers": {
+    "pinlyx": {
+      "httpUrl": "https://api.pinlyx.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

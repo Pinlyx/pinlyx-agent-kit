@@ -1,0 +1,29 @@
+{
+  "name": "pinlyx",
+  "displayName": "Pinlyx",
+  "version": "1.0.0",
+  "description": "Pinlyx CRM, social publishing and ad reporting for Claude Code: remote MCP server plus six workflow skills.",
+  "author": {
+    "name": "Pinlyx",
+    "email": "support@pinlyx.com",
+    "url": "https://pinlyx.com"
+  },
+  "homepage": "https://docs.pinlyx.com",
+  "repository": "https://github.com/Pinlyx/pinlyx-agent-kit",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "inbox",
+    "pipeline",
+    "social-media",
+    "google-ads",
+    "meta-ads",
+    "tiktok-ads",
+    "mcp"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://docs.pinlyx.com",
+  "supportUrl": "https://pinlyx.com",
+  "privacyPolicyUrl": "https://pinlyx.com/privacy",
+  "termsOfServiceUrl": "https://pinlyx.com/terms"
+}

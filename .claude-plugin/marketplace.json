@@ -1,0 +1,17 @@
+{
+  "name": "pinlyx",
+  "description": "Pinlyx plugins for Claude Code: CRM inbox, pipeline, social publishing and ad reporting through the Pinlyx MCP server.",
+  "owner": {
+    "name": "Pinlyx",
+    "url": "https://pinlyx.com"
+  },
+  "plugins": [
+    {
+      "name": "pinlyx",
+      "source": "./plugins/pinlyx",
+      "description": "Connects Claude Code to your Pinlyx workspace (contacts, inbox, deals, social posts, sequences, Google/Meta/TikTok ads) and adds six workflow skills.",
+      "category": "productivity",
+      "keywords": ["crm", "inbox", "social-media", "ads", "mcp"]
+    }
+  ]
+}
